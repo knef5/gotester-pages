@@ -1,0 +1,1 @@
+import{R as e,j as t,a as o}from"./App-BH-YdMNl.js";import{V as r}from"./V2-C5jQREi_.js";import"./v2-CYxaakne.js";e.createRoot(document.getElementById("root")).render(t.jsx(o.StrictMode,{children:t.jsx(r,{})}));
